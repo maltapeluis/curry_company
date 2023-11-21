@@ -1,10 +1,10 @@
 streamlit==1.28.1
 plotly==5.18.0
-pandas @ file:///D:/bld/pandas_1688740647960/work
-numpy @ file:///D:/bld/numpy_1687808486521/work
+pandas==2.0.3
+numpy==1.24.4
 folium==0.15.0
-matplotlib @ file:///D:/bld/matplotlib-suite_1695077059522/work
-matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1660814786464/work
+matplotlib==3.7.3
+matplotlib-inline==0.1.6
 haversine==2.8.0
 streamlit-folium==0.15.1
-Pillow @ file:///D:/bld/pillow_1697423739715/work
+Pillow==10.1.0
